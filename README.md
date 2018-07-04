@@ -33,7 +33,7 @@ Below the Root user append the following line
 grader  ALL=(ALL:ALL) ALL
 This will grant sudo permission to grader
 
-open puttygen load atest.pem file and save private key which is saved as private.ppk 
+open puttygen load atext.pem file and save private key which is saved as private.ppk 
 
 # Creating a ssh key pair for grader
 On your local machine in terminal/command prompt
